@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="com.example.quizeapp" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Unnamed-0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="640f5283-3322-4e90-8b20-584dd0bc1866" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RZ8M82FZWBL]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8OaoU1CzuraQsMvmJJOJb6dUS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_a505f-RZ8M82FZWBL" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.quizeapp" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PearlHatcher5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRAZY\AndroidStudioProjects\FlutterProjects\quickstart-android\quize_app\lib\quiz_app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="640f5283-3322-4e90-8b20-584dd0bc1866" name="Default Changelist" comment="" />
+      <created>1588010319349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588010319349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1588706297426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588706297426" />
+    <state x="304" y="21" width="758" height="707" key="#assignment.dart" timestamp="1588947449783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="304" y="21" width="758" height="707" key="#assignment.dart/0.0.1366.728@0.0.1366.728" timestamp="1588947449783" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589041621153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589041621153" />
+    <state x="350" y="105" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1589021828994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="105" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1589021828994" />
+    <state x="363" y="87" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589046557678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="87" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1589046557678" />
+    <state x="381" y="0" key="#xdebugger.evaluate" timestamp="1588960532766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="0" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1588960532766" />
+    <state x="463" y="91" key="AndroidProcessChooserDialog" timestamp="1588962614310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="91" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588962614310" />
+    <state x="413" y="44" key="FileChooserDialogImpl" timestamp="1588961874983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="44" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588961874983" />
+    <state width="1309" height="250" key="GridCell.Tab.0.bottom" timestamp="1589041648610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1309" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589041648610" />
+    <state width="1309" height="250" key="GridCell.Tab.0.center" timestamp="1589041648610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1309" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589041648610" />
+    <state width="1309" height="250" key="GridCell.Tab.0.left" timestamp="1589041648609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1309" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589041648609" />
+    <state width="1309" height="250" key="GridCell.Tab.0.right" timestamp="1589041648610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1309" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589041648610" />
+    <state x="163" y="46" key="IDE.errors.dialog" timestamp="1588962292842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="46" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1588962292842" />
+    <state x="64" y="0" key="SettingsEditor" timestamp="1589046527140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589046527140" />
+    <state x="108" y="119" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1588599566266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="108" y="119" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1588599566266" />
+    <state x="283" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1589046433312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589046433312" />
+    <state x="410" y="173" key="edit.logcat.filter.dialog.dimensions" timestamp="1588943591620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="173" key="edit.logcat.filter.dialog.dimensions/0.0.1366.728@0.0.1366.728" timestamp="1588943591620" />
+  </component>
+</project>
